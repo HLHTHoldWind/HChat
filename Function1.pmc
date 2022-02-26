@@ -1,0 +1,5 @@
+[TITLE]
+name=Function1
+
+[FUNCTION]
+0=wait, 1000
